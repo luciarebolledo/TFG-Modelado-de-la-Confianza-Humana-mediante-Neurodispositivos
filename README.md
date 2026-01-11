@@ -6,14 +6,14 @@
 **Universidad:** Universidad Politecnica de Madrid
 **Curso académico:** 2025–2026
 
----
+
 
 Este repositorio contiene el código y los análisis desarrollados en el Trabajo Fin de Grado titulado **“Modelado de la Confianza Humana mediante Neurodispositivos”**.  
 El objetivo principal del trabajo es analizar la relación entre señales electroencefalográficas (EEG) y los niveles de confianza del usuario, empleando técnicas de análisis estadístico, aprendizaje automático y métodos de explicabilidad de modelos.
 
 El repositorio está organizado por bloques de análisis, siguiendo la misma estructura conceptual que la memoria del TFG.
 
----
+
 
 ## Estructura del repositorio
 
