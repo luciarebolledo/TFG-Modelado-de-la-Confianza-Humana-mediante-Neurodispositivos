@@ -1,0 +1,12 @@
+{
+  "best_global_params": {
+    "xgb__learning_rate": 0.1,
+    "xgb__max_depth": 3,
+    "xgb__n_estimators": 200,
+    "xgb__subsample": 1.0
+  },
+  "mean_cv_f1_across": 0.487,
+  "final_model_mean_test_acc": 0.633,
+  "final_model_mean_test_f1": 0.547,
+  "n_participants": 11
+}
