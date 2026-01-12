@@ -1,0 +1,12 @@
+participant,rows_train,rows_test,groups_train,groups_test,n_features,global_te_acc,global_te_bacc,global_te_f1,oob_global,global_params
+3,340,600,34,60,376,0.5516666666666666,0.45875,0.6868451688009313,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+5,400,600,40,60,376,0.585,0.46555555555555556,0.21451104100946372,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+6,400,600,40,60,376,0.6283333333333333,0.6283333333333333,0.599640933572711,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+8,400,600,40,60,376,0.545,0.547979797979798,0.5333333333333333,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+9,400,600,40,60,376,0.7566666666666667,0.5135416666666667,0.1511627906976744,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+10,400,600,40,60,376,0.63,0.5516483516483517,0.7406542056074766,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+12,400,600,40,60,376,0.6316666666666667,0.6001831501831503,0.48484848484848486,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+14,400,600,40,60,376,0.5566666666666666,0.5508417508417509,0.6017964071856288,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+15,400,600,40,60,376,0.5283333333333333,0.5207070707070707,0.4588910133843212,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+21,400,600,40,60,376,0.5516666666666666,0.5298534798534799,0.6359945872801083,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"
+22,400,600,40,60,376,0.535,0.51875,0.6075949367088608,,"{""metric"": ""manhattan"", ""n_neighbors"": 3, ""weights"": ""uniform""}"

@@ -1,0 +1,11 @@
+{
+  "best_global_params": {
+    "knn__metric": "manhattan",
+    "knn__n_neighbors": 3,
+    "knn__weights": "uniform"
+  },
+  "mean_cv_f1_across": 0.47788283186682423,
+  "final_model_mean_test_acc": 0.5909090909090909,
+  "final_model_mean_test_f1": 0.5195702638571813,
+  "n_participants": 11
+}

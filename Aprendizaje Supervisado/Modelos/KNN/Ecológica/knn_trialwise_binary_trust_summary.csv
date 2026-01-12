@@ -1,0 +1,12 @@
+participant,rows_train,rows_test,groups_train,groups_test,n_features,te_acc,bacc,f1,best_local_params,best_local_cv_bacc
+3,340,600,34,60,376,0.5516666666666666,0.45875,0.6868451688009313,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.7453347385049014
+5,400,600,40,60,376,0.585,0.46555555555555556,0.21451104100946372,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.20108932461873638
+6,400,600,40,60,376,0.6283333333333333,0.6283333333333333,0.599640933572711,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.4846881675044447
+8,400,600,40,60,376,0.545,0.547979797979798,0.5333333333333333,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.4195586412267227
+9,400,600,40,60,376,0.7566666666666667,0.5135416666666667,0.1511627906976744,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.08427128427128427
+10,400,600,40,60,376,0.63,0.5516483516483517,0.7406542056074766,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.78702574590718
+12,400,600,40,60,376,0.6316666666666667,0.6001831501831503,0.48484848484848486,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.4143675361837522
+14,400,600,40,60,376,0.5566666666666666,0.5508417508417509,0.6017964071856288,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 5, ""knn__weights"": ""uniform""}",0.6972591362126246
+15,400,600,40,60,376,0.5283333333333333,0.5207070707070707,0.4588910133843212,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.387545943361318
+21,400,600,40,60,376,0.5516666666666666,0.5298534798534799,0.6359945872801083,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.695077465100022
+22,400,600,40,60,376,0.535,0.51875,0.6075949367088608,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 5, ""knn__weights"": ""uniform""}",0.6175350059733201
