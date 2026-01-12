@@ -1,0 +1,16 @@
+participant,rows_train,rows_test,groups_train,groups_test,n_features,te_acc,bacc,f1,best_local_params,best_local_cv_bacc
+3,1340,600,134,60,376,0.6683333333333333,0.5455555555555556,0.31141868512110726,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.31483612863592964
+4,1400,600,140,60,376,0.5416666666666666,0.5416666666666666,0.5709828393135725,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.6205827370887634
+5,1400,600,140,60,376,0.62,0.52875,0.3090909090909091,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.3383144957056096
+6,1400,600,140,60,376,0.7,0.5952380952380952,0.4,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 5, ""knn__weights"": ""uniform""}",0.381407532482835
+7,1400,600,140,60,376,0.5383333333333333,0.5267676767676768,0.6048502139800286,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 5, ""knn__weights"": ""uniform""}",0.5892958628487518
+8,1400,600,140,60,376,0.6116666666666667,0.607912457912458,0.5693160813308688,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.5869616442338934
+9,1400,600,140,60,376,0.5566666666666666,0.5546875,0.584375,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 7, ""knn__weights"": ""distance""}",0.623007639613236
+10,1400,600,140,60,376,0.56,0.5525252525252525,0.6106194690265486,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.6596555501052245
+12,1400,600,140,60,376,0.65,0.5674603174603174,0.38235294117647056,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.29268258973739486
+14,1400,600,140,60,376,0.6233333333333333,0.5420634920634921,0.3505747126436782,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.3489519083809518
+17,1400,600,140,60,376,0.58,0.5800000000000001,0.5987261146496815,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.5899526049319543
+18,1320,600,132,60,376,0.5233333333333333,0.5223581757508342,0.5,"{""knn__metric"": ""euclidean"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.4836032736032736
+19,1400,600,140,60,376,0.88,0.5259259259259259,0.12195121951219512,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.1310217027941196
+21,1400,600,140,60,376,0.565,0.565,0.555366269165247,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 3, ""knn__weights"": ""uniform""}",0.5340297479487434
+22,1400,600,140,60,376,0.52,0.4791666666666667,0.6307692307692307,"{""knn__metric"": ""manhattan"", ""knn__n_neighbors"": 7, ""knn__weights"": ""uniform""}",0.665663288858317
