@@ -1,0 +1,9 @@
+{
+  "best_global_params": {
+    "nb__var_smoothing": 1e-12
+  },
+  "mean_cv_f1_across": 0.4455802114393767,
+  "final_model_mean_test_acc": 0.5313636363636364,
+  "final_model_mean_test_f1": 0.4976714555953986,
+  "n_participants": 11
+}
