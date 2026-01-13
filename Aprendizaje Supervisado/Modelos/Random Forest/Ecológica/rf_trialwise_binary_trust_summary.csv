@@ -1,0 +1,12 @@
+participant,rows_train,rows_test,groups_train,groups_test,n_features,te_acc,te_bacc,te_f1_weighted,best_local_params,best_local_cv_f1_weighted,oob_global
+3,340,600,34,60,376,0.61,0.465,0.5194048166896763,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 2, ""rf__n_estimators"": 800}",0.5326041089053272,0.7235294117647059
+5,400,600,40,60,376,0.5816666666666667,0.45444444444444443,0.5864767306016009,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 4, ""rf__n_estimators"": 800}",0.6833791957331593,0.8225
+6,400,600,40,60,376,0.81,0.81,0.8076728413807065,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 4, ""rf__n_estimators"": 1000}",0.6009443316665442,0.8425
+8,400,600,40,60,376,0.6283333333333333,0.6247474747474748,0.6283948401066984,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 4, ""rf__n_estimators"": 500}",0.42695470017960374,0.755
+9,400,600,40,60,376,0.775,0.49062500000000003,0.7039646322527275,"{""rf__max_depth"": 14, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 2, ""rf__n_estimators"": 1000}",0.7249065529852664,0.8175
+10,400,600,40,60,376,0.615,0.5620879120879121,0.6082153296064019,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 4, ""rf__n_estimators"": 800}",0.6279099369819857,0.815
+12,400,600,40,60,376,0.6416666666666667,0.6045787545787545,0.64106416016612,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 4, ""rf__n_estimators"": 800}",0.5214138550549439,0.8
+14,400,600,40,60,376,0.585,0.587037037037037,0.585982457555686,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 2, ""rf__n_estimators"": 1000}",0.6281904486819393,0.8425
+15,400,600,40,60,376,0.5366666666666666,0.522895622895623,0.5284469343292874,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 2, ""rf__n_estimators"": 800}",0.4534279214143025,0.7625
+21,400,600,40,60,376,0.58,0.5351648351648352,0.5785595751742449,"{""rf__max_depth"": 12, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 4, ""rf__n_estimators"": 500}",0.5570210533612231,0.825
+22,400,600,40,60,376,0.5783333333333334,0.5319444444444444,0.556047065318657,"{""rf__max_depth"": 14, ""rf__max_features"": ""sqrt"", ""rf__min_samples_leaf"": 2, ""rf__n_estimators"": 800}",0.5271402539365695,0.825

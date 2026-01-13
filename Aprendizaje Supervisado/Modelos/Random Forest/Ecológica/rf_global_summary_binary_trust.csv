@@ -1,0 +1,12 @@
+participant,rows_train,rows_test,groups_train,groups_test,n_features,global_te_acc,global_te_bacc,global_te_f1_weighted,oob_global,global_params
+3,340,600,34,60,376,0.61,0.465,0.5194048166896763,0.7235294117647059,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+5,400,600,40,60,376,0.5816666666666667,0.45444444444444443,0.5864767306016009,0.8225,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+6,400,600,40,60,376,0.81,0.81,0.8076728413807065,0.8425,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+8,400,600,40,60,376,0.6283333333333333,0.6247474747474748,0.6283948401066984,0.755,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+9,400,600,40,60,376,0.775,0.49062500000000003,0.7039646322527275,0.8175,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+10,400,600,40,60,376,0.615,0.5620879120879121,0.6082153296064019,0.815,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+12,400,600,40,60,376,0.6416666666666667,0.6045787545787545,0.64106416016612,0.8,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+14,400,600,40,60,376,0.585,0.587037037037037,0.585982457555686,0.8425,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+15,400,600,40,60,376,0.5366666666666666,0.522895622895623,0.5284469343292874,0.7625,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+21,400,600,40,60,376,0.58,0.5351648351648352,0.5785595751742449,0.825,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"
+22,400,600,40,60,376,0.5783333333333334,0.5319444444444444,0.556047065318657,0.825,"{""max_depth"": 14, ""max_features"": ""sqrt"", ""min_samples_leaf"": 4, ""n_estimators"": 500}"

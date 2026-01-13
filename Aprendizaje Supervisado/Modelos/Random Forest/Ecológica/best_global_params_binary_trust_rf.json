@@ -1,0 +1,13 @@
+{
+  "best_global_params": {
+    "rf__max_depth": 14,
+    "rf__max_features": "sqrt",
+    "rf__min_samples_leaf": 4,
+    "rf__n_estimators": 500
+  },
+  "mean_cv_f1_weighted_across": 0.5603107825162371,
+  "final_model_mean_test_acc": 0.631060606060606,
+  "final_model_mean_test_f1_weighted": 0.613111762107437,
+  "final_model_mean_oob_global": 0.8028208556149732,
+  "n_participants": 11
+}
