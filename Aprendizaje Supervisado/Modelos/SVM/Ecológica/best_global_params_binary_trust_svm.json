@@ -1,0 +1,11 @@
+{
+  "best_global_params": {
+    "svc__C": 1,
+    "svc__gamma": "scale",
+    "svc__kernel": "linear"
+  },
+  "mean_cv_f1_across": 0.5073425706439085,
+  "final_model_mean_test_acc": 0.5715151515151515,
+  "final_model_mean_test_f1": 0.5133588229715138,
+  "n_participants": 11
+}
